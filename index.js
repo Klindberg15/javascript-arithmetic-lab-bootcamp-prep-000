@@ -1,2 +1,2 @@
 
-parseFloat(add('a', 'b')
+makeInt(add('a', 'b')
