@@ -1,2 +1,2 @@
 
-parseInt (add(a, b)
+parseInt (add(a, b);
