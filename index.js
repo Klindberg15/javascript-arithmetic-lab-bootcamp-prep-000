@@ -5,4 +5,4 @@ beforeEach(function() {
   b = Math.floor(Math.random() * 1000)
 })
 
-parseInt 'add(a, b)'
+parseInt'add(a, b)'
