@@ -1,4 +1,4 @@
 
-function adda + b(){
+function a + b(){
 
 }
