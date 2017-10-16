@@ -1,4 +1,1 @@
-
-function a + b(){
-
-}
+parseInt('a','b')
